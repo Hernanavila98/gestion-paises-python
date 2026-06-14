@@ -61,4 +61,4 @@ Alemania                 83.149.300          357.022      Europa
 [Link al video - próximamente]
 
 ## Documentación PDF
-[Link al PDF - próximamente]
+[Informe_TPI_Paises.pdf](Informe_TPI_Paises.pdf)
